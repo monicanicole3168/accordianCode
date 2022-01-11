@@ -1,7 +1,9 @@
+html {
+  font-family: 'kumbh sans';
+}
 .accordion {
   background-color: rgb(252, 15, 173);
   color: rgb(234, 247, 52);
-  font-family: "kumbh sans";
   font-weight: 400;
   cursor: pointer;
   padding: 18px;
@@ -15,14 +17,12 @@
 .active,
 .accordion:hover {
   background-color: #ccc;
-  font-family: "kumbh sans";
   font-weight: 400;
 }
 
 .panel {
   padding: 0 18px;
   background-color: white;
-  font-family: "kumbh sans";
   font-weight: 400;
   max-height: 0;
   overflow: hidden;
@@ -32,7 +32,7 @@
 .body {
   background-color: violet;
   font-family: "kumbh sans";
-  font-weight: 700;
+  font-weight: 700;git
   text-align: center;
   font-size: 2em;
 }
